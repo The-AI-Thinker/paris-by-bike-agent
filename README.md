@@ -84,7 +84,7 @@ project_root/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/adamfaik/paris-by-bike-agent.git
+   git clone https://github.com/The-AI-Thinker/paris-by-bike-agent.git
    cd paris-by-bike
    ```
 
