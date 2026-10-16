@@ -5,7 +5,7 @@
 
 **Date :** Novembre 2025
 
-**Repo GitHub :** [github.com/AFA-Teaching/paris-by-bike-agent](https://github.com/AFA-Teaching/paris-by-bike-agent)
+**Repo GitHub :** [github.com/The-AI-Thinker/paris-by-bike-agent](https://github.com/The-AI-Thinker/paris-by-bike-agent)
 
 ---
 
@@ -214,7 +214,7 @@ Les défis rencontrés, notamment dans la création des données et l'ingénieri
 
 ### 7. Annexes et repo
 
-* **Repo GitHub :** [github.com/AFA-Teaching/paris-by-bike-agent](https://github.com/AFA-Teaching/paris-by-bike-agent)
+* **Repo GitHub :** [github.com/The-AI-Thinker/paris-by-bike-agent](https://github.com/The-AI-Thinker/paris-by-bike-agent)
 * **Fichiers de Référence :**
     * `agent_logic.py` : Définition de l'agent, des outils et du system prompt.
     * `rag_pipeline.py` : Logique d'indexation FAISS et de la chaîne RAG.
